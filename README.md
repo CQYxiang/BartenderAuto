@@ -1,2 +1,4 @@
 # BartenderAuto
-Bartender多种制作规则自动化做码
+
+install Python Packegs
+pip install pywinauto
